@@ -5,7 +5,7 @@ Esse projeto consiste em criar uma lista de tarefas que salvará seus dados no L
 [Você pode acessá-lo clicando nesse link:](https://listadetarefas.pages.dev/)
 ***
 
-**OBS:** o LocalStorage do navegador fica salvo no seu disco rigído/Mídia de armazenamento, então não precisa se preocupar caso você precise reiniciar seu eletrônico, ou caso você precise fechar a aba/guia do navegador e acessar o site novamente, pois os dados/tarefas continuaram salvos lá.
+**OBS:** o LocalStorage do navegador fica salvo no seu disco rigído/Mídia de armazenamento, então não precisa se preocupar caso você precise reiniciar seu eletrônico, ou caso você precise fechar a aba/guia do navegador e acessar o site novamente, pois os dados/tarefas continuarão salvos lá.
 
 ***
 
