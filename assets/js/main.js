@@ -78,7 +78,7 @@ document.addEventListener("click", function (event) {
   const elementoClicado = event.target;
 
   deletarTarefa(elementoClicado);
-  deletarTarefaNoStorage(textoDaTarefa);
+  deletarTarefaNoStorage();
 });
 
 // Execução das funções
